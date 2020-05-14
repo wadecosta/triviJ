@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ Write\ a\ description\ of\ class\ Game\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Game\n
+comment10.params=
+comment10.target=void\ NewScreenInGame()
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=
+comment3.target=int\ getStrikes()
+comment4.params=
+comment4.target=void\ RightAnswer()
+comment5.params=
+comment5.target=void\ WrongAnswer()
+comment6.params=
+comment6.target=void\ AnswerCheck()
+comment7.params=
+comment7.target=void\ ChooseDifficulty()
+comment8.params=StateAnswer\ StateFakeAnswer1\ StateFakeAnswer2
+comment8.target=int\ RandomNum(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=void\ NewScreen()
+numComments=11
